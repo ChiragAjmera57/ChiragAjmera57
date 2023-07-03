@@ -1,5 +1,5 @@
 # 💫 About Me:
-> Portfolio :: [https://chiragajmera57.github.io/]
+> Portfolio - [https://chiragajmera57.github.io/]
 >> 
 "Hello! I'm Chirag, a passionate and ambitious web development student eager to master the art of creating engaging and user-friendly websites. Currently pursuing my studies in web development from MASAI.
 
